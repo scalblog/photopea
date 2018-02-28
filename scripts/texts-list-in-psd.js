@@ -11,7 +11,10 @@ function getTexts(ref, fs) {
         if (layer.typename=="LayerSet") getTexts(layer, fs);
         else if(layer.kind==LayerKind.TEXT){
             var text = layer.textItem.contents;
-            if(fs.indexOf(text)==-1) fs.push(text);
+            if(fs.indexOf(text)==-1) {
+                console.log(text);
+                fs.push(text);
+            }
         }
     }
 }
