@@ -4,3 +4,4 @@ SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimise les SVG</sub><br/>
 modernizr https://modernizr.com<br/>
 Slick Carousel http://kenwheeler.github.io/slick<br/>
 https://imageoptim.com/online<br/>
+<sub>2018</sub>
