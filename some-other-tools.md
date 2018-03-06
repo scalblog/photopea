@@ -3,5 +3,5 @@ Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossles
 SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimise les SVG</sub><br/>
 modernizr https://modernizr.com<br/>
 Slick Carousel http://kenwheeler.github.io/slick<br/>
-https://imageoptim.com/online<br/>
+https://imageoptim.com/online<sub>optimize the weight for your pictures<br/>
 <sub>2018</sub>
