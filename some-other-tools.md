@@ -2,6 +2,6 @@ Fontello http://fontello.com/ <sub>(tips : use it in a Private Navigation Tab to
 Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
 SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimise les SVG</sub><br/>
 modernizr https://modernizr.com<br/>
-Slick Carousel http://kenwheeler.github.io/slick<br/>
+Slick Carousel http://kenwheeler.github.io/slick simple, light and usefull for a slider with jQuery<br/>
 https://imageoptim.com/online<sub>optimize the weight for your pictures<br/>
 <sub>2018</sub>
