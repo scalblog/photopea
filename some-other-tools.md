@@ -5,4 +5,5 @@ modernizr https://modernizr.com<br/>
 Slick Carousel http://kenwheeler.github.io/slick simple, light and usefull for a slider with jQuery<br/>
 https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
 extension chrome PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi<br/>
+extension chrome CSS Pepper https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=fr<br/>
 <sub>2018</sub>
