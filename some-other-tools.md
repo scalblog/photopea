@@ -4,5 +4,5 @@ SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimise les SVG</sub><br/>
 modernizr https://modernizr.com<br/>
 Slick Carousel http://kenwheeler.github.io/slick simple, light and usefull for a slider with jQuery<br/>
 https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
-extension chrome PerfectPixel<br/>
+extension chrome PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi<br/>
 <sub>2018</sub>
