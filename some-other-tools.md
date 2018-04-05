@@ -9,5 +9,5 @@
 + extension chrome CSS Pepper https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=fr<sub>get details about CSS with demo in the browser</sub><br/>
 + l'extension de navigateur Wappalyzer pour Chrome : https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr<sub>uncovers the technologies used on websites</sub><br/>
 + Scroll Magic : http://scrollmagic.io/<br/>
-+ Lightshot : capture d'écran pour PC et Mac<br/>
++ Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac</sub><br/>
 <sub>2018</sub>
