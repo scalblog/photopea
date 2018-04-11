@@ -10,4 +10,5 @@
 + l'extension de navigateur Wappalyzer pour Chrome : https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr<sub>uncovers the technologies used on websites</sub><br/>
 + Scroll Magic : http://scrollmagic.io/<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac</sub><br/>
++ Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
 <sub>2018</sub>
