@@ -1,4 +1,4 @@
-/* Get the texts in a PSD file with this script in Photopea */
+/* Extract the texts in a PSD file with this script in Photopea */
 
 var texts = [];
 getTexts(app.activeDocument, texts);
