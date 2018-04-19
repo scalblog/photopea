@@ -11,6 +11,6 @@
 + Scroll Magic : http://scrollmagic.io/<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac</sub><br/>
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
-+ JS Compress : https://jscompress.com/<br/>
++ JS Compress : https://jscompress.com/<sub>To manify JS</sub><br/>
 + JS beautifier http://jsbeautifier.org/<br/>
 <sub>2018</sub>
