@@ -13,5 +13,5 @@
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
 + JS Compress : https://jscompress.com/<sub>To manify JS</sub><br/>
 + JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>
-+ Browser Stack https://www.browserstack.com <sub>test your dev in some other devices and browsers</sub><br/>
++ Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 <sub>2018</sub>
