@@ -14,4 +14,5 @@
 + JS Compress : https://jscompress.com/<sub>To manify JS</sub><br/>
 + JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
++ : https://shapeshifter.design/<br/>
 <sub>2018</sub>
