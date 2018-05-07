@@ -15,4 +15,5 @@
 + JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 + To animate your own svg files : https://shapeshifter.design/<br/>
+  +  http://animejs.com/<br/>
 <sub>2018</sub>
