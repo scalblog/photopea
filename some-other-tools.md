@@ -17,4 +17,5 @@
 + To animate your own svg files : https://shapeshifter.design/<br/>
 +  http://animejs.com/<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
++ flexbox composer : http://maxsteenbergen.com/fibonacci/<br/>
 <sub>2018</sub>
