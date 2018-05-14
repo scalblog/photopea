@@ -16,6 +16,7 @@
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 + To animate your own svg files : https://shapeshifter.design/<br/>
 +  http://animejs.com/<br/>
++ Font transformer to multiply font formats : https://transfonter.org<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
   + flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
 <sub>2018</sub>
