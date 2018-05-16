@@ -18,5 +18,5 @@
 +  http://animejs.com/<br/>
 + Font transformer to multiply font formats : https://transfonter.org<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
-  + flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
++ flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
 <sub>2018</sub>
