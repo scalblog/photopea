@@ -12,12 +12,15 @@
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac</sub><br/>
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
-+ JS Compress : https://jscompress.com/<sub>To manify JS</sub><br/>
-+ JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>
+
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 + To animate your own svg files : https://shapeshifter.design/<br/>
 +  http://animejs.com/<br/>
 + Font transformer to multiply font formats : https://transfonter.org<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
 + flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
+  
+Javascript :
++ JS Compress : https://jscompress.com/<sub>To manify JS</sub><br/>
++ JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>  
 <sub>2018</sub>
