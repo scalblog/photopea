@@ -13,7 +13,6 @@
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
 
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
-+ To animate your own svg files : https://shapeshifter.design/<br/>
 +  http://animejs.com/<br/>
 + Font transformer to multiply font formats : https://transfonter.org<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
@@ -28,4 +27,6 @@ CSS:
 SVG:
 + SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimize your SVG</sub><br/>
 + Turn your SVG files into a font of icons with Fontello http://fontello.com/ <sub>(tips : use it in a Private Navigation Tab to escape the previous selections of your icons and DON'T forget to ass fontello's config.json to your website.)</sub><br/>
++ To animate your own svg files : https://shapeshifter.design/<br/>
+
 <sub>2018</sub>
