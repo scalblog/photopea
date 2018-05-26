@@ -1,6 +1,3 @@
-+ main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
-+ Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
-
 + modernizr https://modernizr.com<br/>
 + Slick Carousel http://kenwheeler.github.io/slick <sub>simple, light and usefull carousel/slider with jQuery</sub><br/>
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
@@ -28,5 +25,9 @@ SVG:
 + SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimize your SVG</sub><br/>
 + Turn your SVG files into a font of icons with Fontello http://fontello.com/ <sub>(tips : use it in a Private Navigation Tab to escape the previous selections of your icons and DON'T forget to ass fontello's config.json to your website.)</sub><br/>
 + To animate your own svg files : https://shapeshifter.design/<br/>
+
+Images :
++ main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
++ Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
 
 <sub>2018</sub>
