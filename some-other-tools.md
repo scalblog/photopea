@@ -11,7 +11,6 @@
 
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 +  http://animejs.com/<br/>
-+ Font transformer to multiply font formats : https://transfonter.org<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
 + flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
 
@@ -32,4 +31,6 @@ Images :
 + main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
 + Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
 
+Fonts :
++ Font transformer to multiply font formats : https://transfonter.org<br/>
 <sub>2018</sub>
