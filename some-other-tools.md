@@ -1,5 +1,5 @@
 + modernizr https://modernizr.com<br/>
-+ Slick Carousel http://kenwheeler.github.io/slick <sub>simple, light and usefull carousel/slider with jQuery</sub><br/>
+
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
 + https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
 + extension chrome PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi <sub>compare your web page with a JPEG file in your browser</sub><br/>
@@ -33,4 +33,8 @@ Images :
 
 Fonts :
 + Font transformer to multiply font formats : https://transfonter.org<br/>
+
+Carousel / slider :
++ Slick Carousel http://kenwheeler.github.io/slick <sub>simple, light and usefull carousel/slider with jQuery</sub><br/>
++ Owl Carousel <br/>
 <sub>2018</sub>
