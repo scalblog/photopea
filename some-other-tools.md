@@ -1,3 +1,4 @@
+Miscellanous : 
 + modernizr https://modernizr.com<br/>
 
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
