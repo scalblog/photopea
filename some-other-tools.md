@@ -35,7 +35,7 @@ Fonts :
 
 Carousel / slider :
 + Slick Carousel http://kenwheeler.github.io/slick <sub>simple, light and usefull carousel/slider with jQuery</sub><br/>
-+ Owl Carousel <br/>
++ Owl Carousel https://owlcarousel2.github.io/OwlCarousel2/ <br/>
 
 Extensions pour Chrome :
 + extension chrome PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi <sub>compare your web page with a JPEG file in your browser</sub><br/>
