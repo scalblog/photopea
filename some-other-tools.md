@@ -2,7 +2,6 @@ Miscellanous :
 + modernizr https://modernizr.com<br/>
 
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
-+ https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
 
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac / smart screenshots</sub><br/>
@@ -29,6 +28,7 @@ SVG:
 Images :
 + main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
 + Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
++ https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
 
 Fonts :
 + Font transformer to multiply font formats : https://transfonter.org<br/>
