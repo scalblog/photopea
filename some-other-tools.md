@@ -5,7 +5,6 @@ Miscellanous :
 
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac / smart screenshots</sub><br/>
-+ Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
 
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
 +  http://animejs.com/<br/>
@@ -41,5 +40,9 @@ Extensions pour Chrome :
 + extension chrome PerfectPixel https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi <sub>compare your web page with a JPEG file in your browser</sub><br/>
 + extension chrome CSS Pepper https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=fr<sub>get details about CSS with demo in the browser</sub><br/>
 + l'extension de navigateur Wappalyzer pour Chrome : https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=fr<sub>uncovers the technologies used on websites</sub><br/>
+
+Charts
++ Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
++ Chart JS : </br>
 
 <sub>2018</sub>
