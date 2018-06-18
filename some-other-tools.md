@@ -43,6 +43,6 @@ Extensions pour Chrome :
 
 Charts
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
-+ Chart JS : </br>
++ Chart JS : https://www.chartjs.org/</br>
 
 <sub>2018</sub>
