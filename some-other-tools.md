@@ -17,7 +17,7 @@ Javascript :
 + JS beautifier http://jsbeautifier.org/<sub>to un-manify a JS file<br/>  
   
 CSS: 
-+ custome style for input Select, Radio and Checkbox : http://selectric.js.org/demo.html <br/>
++ Selectric JS : http://selectric.js.org/demo.html <sub>custome style for input Select, Radio and Checkbox</sub><br/>
 
 SVG:
 + SVGOMG https://jakearchibald.github.io/svgomg/<sub>optimize your SVG</sub><br/>
