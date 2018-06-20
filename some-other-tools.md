@@ -2,12 +2,13 @@ Miscellanous :
 + modernizr https://modernizr.com<br/>
 
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
++  http://animejs.com/<br/>
+
 
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
 + Lightshot : https://app.prntscr.com <sub>capture d'écran pour PC et Mac / smart screenshots</sub><br/>
 
 + Browser Stack https://www.browserstack.com <sub>test your dev on some other devices and browsers</sub><br/>
-+  http://animejs.com/<br/>
 + auto-prefixer online : https://autoprefixer.github.io/<br/>
 + flexbox composer : http://maxsteenbergen.com/fibonacci/<sub>build the flexboxes you need</sub><br/>
 
