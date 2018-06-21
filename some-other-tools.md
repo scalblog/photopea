@@ -46,4 +46,7 @@ Charts
 + Amcharts : https://www.amcharts.com/ <sub>Javascript library for beautiful and customized charts</sub>
 + Chart JS : https://www.chartjs.org/</br>
 
+Modal without Bootstrap
++ Micro Modal : https://micromodal.now.sh/ </br>
+
 <sub>2018</sub>
