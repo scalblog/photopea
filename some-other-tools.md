@@ -47,6 +47,6 @@ Charts
 + Chart JS : https://www.chartjs.org/</br>
 
 Modal without Bootstrap
-+ Micro Modal : https://micromodal.now.sh/ <sub>pur JS modal</sub></br>
++ Micro Modal : https://micromodal.now.sh/ <sub>pure JS modal</sub></br>
 
 <sub>2018</sub>
