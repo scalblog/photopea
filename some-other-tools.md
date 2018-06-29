@@ -26,7 +26,7 @@ SVG:
 + To animate your own svg files : https://shapeshifter.design/<br/>
 
 Images :
-+ main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
++ What are the main colors in a picture : https://artsexperiments.withgoogle.com/artpalette/<sub>from any pictures</sub><br/>
 + Kraken.io https://kraken.io/web-interface<sub>can optimize your pictures lossless</sub><br/>
 + https://imageoptim.com/online<sub>optimize the weight for your pictures</sub><br/>
 
