@@ -51,4 +51,10 @@ On scroll :
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
 
+Tooltip in JavaScript Vanilla :
++ Tippy JS : https://atomiks.github.io/tippyjs/ <br/>
+
+Modal in JavaScript Vanilla :
++ Micro modal : https://micromodal.now.sh/<br/>
+
 <sub>2018</sub>
