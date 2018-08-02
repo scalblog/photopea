@@ -50,6 +50,7 @@ Modal without Bootstrap
 On scroll :
 + Parallax JS : http://pixelcog.github.io/parallax.js/<br/>
 + Scroll Magic : http://scrollmagic.io/many ways to customize beautiful scrolls on your webpage<br/>
++ Sticky Bits : https://github.com/dollarshaveclub/stickybits <br/>
 
 Tooltip in JavaScript Vanilla :
 + Tippy JS : https://atomiks.github.io/tippyjs/ <br/>
